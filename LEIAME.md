@@ -1,4 +1,0 @@
-- 👋 Oi, eu sou @iamlucasgomes
-- 👀 Estou interessado em JavaScript
-- 🌱 Estou estudando Desenvolvimento Full Stack
-- 📫 Você pode me encontrar através dos links de contato no meu perfil
