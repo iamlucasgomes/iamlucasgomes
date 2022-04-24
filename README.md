@@ -38,8 +38,10 @@
  
 <h1>Metas</h1>
 
-- [x] Participar do Processo Seletivo da Trybe
-- [ ] Ingressar na Trybe
+- [ ] Ser aluno da Trybe
+- [ ] Concluir todos os cursos HTML5 da DIO
+- [ ] Concluir todos os cursos CSS da DIO
+- [ ] Concluir todos os cursos JavaScript da DIO
 - [ ] Concluir o curso da Trybe
 - [ ] Ser contratado por uma grande empresa
 
