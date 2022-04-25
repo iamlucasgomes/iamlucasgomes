@@ -38,7 +38,7 @@
  
 <h1>Metas</h1>
 
-- [ ] Ser aluno da Trybe
+- [X] Ser aluno da Trybe
 - [ ] Concluir todos os cursos HTML5 da DIO
 - [ ] Concluir todos os cursos CSS da DIO
 - [ ] Concluir todos os cursos JavaScript da DIO
