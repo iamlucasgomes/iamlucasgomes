@@ -25,17 +25,24 @@
   </a>
 </div>
 
-## Minhas Skills
-**Linguagens:**
+<div style="display: inline_block"><br>
   
-  <img align="center" alt="Lucas-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
+  ## Minhas Skills
+  **Linguagens:**
+  
+  <img align="center" alt="lucas-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  <div style="display: inline_block"><br>
   
 **Ferramentas:**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
  
+  </div>
+  
 <h1>Metas</h1>
 
 - [X] Ser aluno da Trybe
