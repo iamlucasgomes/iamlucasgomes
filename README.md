@@ -10,7 +10,7 @@
   
 ## Sobre mim
 
-- 🌱 Estudante de Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com">Trybe</a>
+- 🌱 Estudante de Desenvolvimento Web Full Stack na <a target="_blank" href="https://www.betrybe.com">Trybe</a>
 - 📍 Brasilia 
 - 📫 Você pode me encontrar através dos links de contato
 
