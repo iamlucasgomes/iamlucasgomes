@@ -1,5 +1,6 @@
 
 <h1 align="center">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> eu sou o Lucas Gomes </h1>
+<div align="right"><a target="_blank" href="https://www.betrybe.com">🇺🇸</a></div>
 <p align="center">
 <img src="https://s7.gifyu.com/images/ezgif.com-gif-makerc7cb64de0fabcd39.gif" />
 </p align="center">
@@ -70,6 +71,4 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iamlucasgomes/">
     </a>
 </p>
-
-##
  
