@@ -47,11 +47,12 @@
 <h1>goals</h1>
 
 - [X] Be a Trybe student
-- [ ] Complete all DIO HTML5 courses
-- [ ] Complete all DIO CSS courses
-- [ ] Complete all DIO JavaScript courses
-- [ ] Complete the Trybe course
-- [ ] Get hired by a big company
+- [ ] Complete Module 1 - Web Development Fundamentals
+- [ ] Complete Module 2 - Front-end Development
+- [ ] Complete Module 3 - Back-end Development
+- [ ] Complete Module 4 - Computer Science
+- [ ] Complete the Trybe Course
+- [ ] Being hired by a large company
 
   
 
