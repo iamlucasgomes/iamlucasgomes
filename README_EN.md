@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi! I'm Lucas Gomes <img src="https://emoji.slack-edge.com/TMDDFEPFU/dancing_dog/783703000c33a5dc.gif" alt="dancing dog" width="30"> </h1>
+<h1 align="center">Hi! I'm Lucas Gomes <img src="assets/img/dancingdog.gif" alt="dancing dog" width="30"> </h1>
 <div align="right"><a target="_blank" href="https://github.com/iamlucasgomes">🇧🇷</a></div>
 <p align="center">
 <img src="https://s7.gifyu.com/images/ezgif.com-gif-makerc7cb64de0fabcd39.gif" />
