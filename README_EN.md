@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Lucas Gomes </h1>
+<h1 align="center">Hi! I'm Lucas Gomes 🤝</h1>
 <div align="right"><a target="_blank" href="https://github.com/iamlucasgomes">🇧🇷</a></div>
 <p align="center">
 <img src="https://s7.gifyu.com/images/ezgif.com-gif-makerc7cb64de0fabcd39.gif" />
