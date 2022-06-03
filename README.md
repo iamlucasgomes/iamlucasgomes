@@ -56,7 +56,6 @@
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white)
   ![MacOS](https://img.shields.io/badge/MacOs-000000.svg?&style=for-the-badge&logo=MacOS&logoColor=white)
-  [![GMail](https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white&)](mailto:lucas.devjs@gmail.com)
 
   </div>
 
