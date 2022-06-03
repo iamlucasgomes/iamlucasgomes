@@ -39,10 +39,24 @@
   
 **Tools:**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello&logoColor=007ACC)
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="30">
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=white)
+  ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
+  ![Discord](https://img.shields.io/badge/Discord-5865f2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?&style=for-the-badge&logo=GNUBash&logoColor=white)
  
+  </div>
+  <div style="display: inline_block"><br>
+  
+**Operational systems:**
+
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white)
+  ![MacOS](https://img.shields.io/badge/MacOs-000000.svg?&style=for-the-badge&logo=MacOS&logoColor=white)
+
+
   </div>
   
 <h1>goals</h1>
