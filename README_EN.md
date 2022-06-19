@@ -2,7 +2,8 @@
 <h1 align="center">Hi! I'm Lucas Gomes <img src="assets/img/dancingdog.gif" alt="dancing dog" width="30"> </h1>
 <div align="right"><a target="_blank" href="https://github.com/iamlucasgomes">🇧🇷</a></div>
 <p align="center">
-<img src="https://s7.gifyu.com/images/ezgif.com-gif-makerc7cb64de0fabcd39.gif" />
+<!-- <img src="https://s7.gifyu.com/images/ezgif.com-gif-makerc7cb64de0fabcd39.gif" /> -->
+<img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200.gif" />
 </p align="center">
 <div align="center">
 

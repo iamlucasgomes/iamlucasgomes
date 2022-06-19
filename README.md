@@ -2,7 +2,9 @@
 <h1 align="center">Olá! eu sou o Lucas Gomes <img src="assets/img/dancingdog.gif" alt="cachorro dançando" width="30"> </h1>
 <div align="right"><a target="_blank" href="https://github.com/iamlucasgomes/iamlucasgomes/blob/main/README_EN.md">🇺🇸</a></div>
 <p align="center">
-<img src="https://s7.gifyu.com/images/ezgif.com-gif-makerc7cb64de0fabcd39.gif" />
+<!-- <img src="https://s7.gifyu.com/images/ezgif.com-gif-makerc7cb64de0fabcd39.gif" /> -->
+<img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200.gif" />
+<!-- <img src="https://miro.medium.com/max/1360/1*VON9gHTrzeHZbHfXsqfzEA.gif" /> -->
 </p align="center">
 <div align="center">
 
