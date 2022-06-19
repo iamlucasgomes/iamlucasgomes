@@ -17,13 +17,12 @@
 
 
 ## My github stats
-<div align="center">
-  <a href="https://github.com/iamlucasgomes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamlucasgomes&show_icons=true&theme=dark&custom_title=Lucas's GitHub stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucasgomes&layout=compact&langs_count=7&theme=dark&custom_title=Most Used Languages"/>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=iamlucasgomes&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=iamlucasgomes&theme=xcode">
-  </a>
+<div display="inline-block" align="center">
+
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamlucasgomes&theme=tokyonight)
+![top languages repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamlucasgomes&theme=tokyonight)![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamlucasgomes&theme=tokyonight)![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamlucasgomes&theme=tokyonight)![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamlucasgomes&theme=tokyonight&utcOffset=-3)
+
 </div>
 
 <div style="display: inline_block"><br>
