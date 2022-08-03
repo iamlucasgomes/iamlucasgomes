@@ -68,7 +68,7 @@
 <h1>Metas</h1>
 
 - [X] Ser aluno da Trybe
-- [ ] Concluir o Modulo 1 - Fundamentos do Desenvolvimento Web
+- [X] Concluir o Modulo 1 - Fundamentos do Desenvolvimento Web
 - [ ] Concluir o Modulo 2 - Desenvolvimento Front-end
 - [ ] Concluir o Modulo 3 - Desenvolvimento Back-end
 - [ ] Concluir o Modulo 4 - Ciência da Computação

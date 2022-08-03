@@ -60,7 +60,7 @@
 <h1>goals</h1>
 
 - [X] Be a Trybe student
-- [ ] Complete Module 1 - Web Development Fundamentals
+- [X] Complete Module 1 - Web Development Fundamentals
 - [ ] Complete Module 2 - Front-end Development
 - [ ] Complete Module 3 - Back-end Development
 - [ ] Complete Module 4 - Computer Science
