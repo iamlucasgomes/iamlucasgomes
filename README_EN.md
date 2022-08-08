@@ -8,6 +8,9 @@
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=iamlucasgomes&style=for-the-badge&label=VOCE+É+O+VISITANTE+NÚMERO&color=4B0082)
+
+![codewars](https://www.codewars.com/users/iamlucasgomes/badges/micro)
+
 </div>
   
 ## About me
