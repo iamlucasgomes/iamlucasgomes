@@ -11,6 +11,8 @@
 ![](https://komarev.com/ghpvc/?username=iamlucasgomes&style=for-the-badge&label=VOCE+É+O+VISITANTE+NÚMERO&color=4B0082)
 
 ![codewars](https://www.codewars.com/users/iamlucasgomes/badges/micro)
+
+<a href="https://www.hackerrank.com/iamlucasgomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iamlucasgomes" height="30" width="40" /></a>
 </div>
   
 ## Sobre mim
