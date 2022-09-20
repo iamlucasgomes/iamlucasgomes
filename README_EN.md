@@ -24,10 +24,8 @@
 ## My github stats
 <div display="inline-block" align="center">
 
-
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamlucasgomes&theme=tokyonight)
-![top languages repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamlucasgomes&theme=tokyonight)![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamlucasgomes&theme=tokyonight)![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamlucasgomes&theme=tokyonight)![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamlucasgomes&theme=tokyonight&utcOffset=-3)
-
+![iamlucasgomes GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlucasgomes&theme=midnight-purple&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucasgomes&theme=midnight-purple)
 </div>
 
 <div style="display: inline_block"><br>
