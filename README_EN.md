@@ -54,6 +54,7 @@
 **Testing:**
 
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 **Tools:**
 
