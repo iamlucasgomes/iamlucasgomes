@@ -26,7 +26,7 @@
 <div display="inline-block" align="center">
 
 ![iamlucasgomes GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlucasgomes&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&custom_title=Estat%C3%ADsticas%20de%20Lucas%20Github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucasgomes&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucasgomes&theme=midnight-purple&custom_title=Linguagens%20mais%20usadas)
 </div>
 
 <div style="display: inline_block"><br>
