@@ -25,7 +25,7 @@
 
 <div display="inline-block" align="center">
 
-![iamlucasgomes GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlucasgomes&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true)
+![iamlucasgomes GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlucasgomes&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&custom_title=Estatísticas-de-Lucas-no-Github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucasgomes&theme=midnight-purple)
 </div>
 
