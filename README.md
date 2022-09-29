@@ -62,6 +62,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
   ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+  ![Miro](https://img.shields.io/badge/Miro-050038.svg?&style=for-the-badge&logo=Miro&logoColor=white)
   ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
   ![Discord](https://img.shields.io/badge/Discord-5865f2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
   ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=white)
