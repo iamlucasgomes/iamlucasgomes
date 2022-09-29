@@ -24,8 +24,8 @@
 ## My github stats
 <div display="inline-block" align="center">
 
-![iamlucasgomes GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlucasgomes&theme=midnight-purple&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucasgomes&theme=midnight-purple)
+![iamlucasgomes GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlucasgomes&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucasgomes&theme=midnight-purple&custom_title=Linguagens%20mais%20usadas&layout=compact)
 </div>
 
 <div style="display: inline_block"><br>
@@ -41,6 +41,7 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
   ![REACT](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
   ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![REDUX](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
   
 **Backend development:**
 
@@ -54,6 +55,7 @@
 **Testing:**
 
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/Testing%20Library-E33332.svg?&style=for-the-badge&logo=Testing%20Library&logoColor=white)
 
 **Tools:**
 
