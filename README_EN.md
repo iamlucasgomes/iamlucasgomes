@@ -85,7 +85,7 @@
 
 - [X] Be a Trybe student
 - [X] Complete Module 1 - Web Development Fundamentals
-- [ ] Complete Module 2 - Front-end Development
+- [x] Complete Module 2 - Front-end Development
 - [ ] Complete Module 3 - Back-end Development
 - [ ] Complete Module 4 - Computer Science
 - [ ] Complete the Trybe Course

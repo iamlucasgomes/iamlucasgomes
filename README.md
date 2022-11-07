@@ -87,7 +87,7 @@
 
 - [X] Ser aluno da Trybe
 - [X] Concluir o Modulo 1 - Fundamentos do Desenvolvimento Web
-- [ ] Concluir o Modulo 2 - Desenvolvimento Front-end
+- [x] Concluir o Modulo 2 - Desenvolvimento Front-end
 - [ ] Concluir o Modulo 3 - Desenvolvimento Back-end
 - [ ] Concluir o Modulo 4 - Ciência da Computação
 - [ ] Concluir o Curso da Trybe
