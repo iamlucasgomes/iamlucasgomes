@@ -44,7 +44,7 @@
   ![REACT](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
   ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
   ![REDUX](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
-  ![CONTEXT API](https://img.shields.io/badge/Context API-0088CC.svg?&style=for-the-badge&logo=react&logoColor=white)
+  ![CONTEXT_API](https://img.shields.io/badge/Context-API-0088CC.svg?&style=for-the-badge&logo=react&logoColor=white)
   
 **Desenvolvimento back-end:**
 
@@ -65,7 +65,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
   ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-  ![Miro](https://img.shields.io/badge/Miro-050038.svg?&style=for-the-badge&logo=Miro&logoColor=white)
   ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
   ![Discord](https://img.shields.io/badge/Discord-5865f2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
   ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=white)
