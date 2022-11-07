@@ -44,6 +44,7 @@
   ![REACT](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
   ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
   ![REDUX](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
+  ![CONTEXT API](https://img.shields.io/badge/Context API-0088CC.svg?&style=for-the-badge&logo=react&logoColor=white)
   
 **Desenvolvimento back-end:**
 
