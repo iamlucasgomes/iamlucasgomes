@@ -68,6 +68,7 @@
   ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
   ![Discord](https://img.shields.io/badge/Discord-5865f2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
   ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=white)
+  ![Miro](https://img.shields.io/badge/Miro-050038.svg?&style=for-the-badge&logo=miro&logoColor=white)
   
 
   </div>

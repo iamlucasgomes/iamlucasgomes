@@ -17,11 +17,11 @@
 ## About me
 
 - 🌱 Full Stack Web Developer in Training at <a target="_blank" href="https://www.betrybe.com">Trybe</a>
-- 📍 Brasilia 
+- 📍 Brasilia
 - 📫 You can find me through the contact links
 
-
 ## My github stats
+
 <div display="inline-block" align="center">
 
 ![iamlucasgomes GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlucasgomes&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true)
@@ -30,7 +30,8 @@
 
 <div style="display: inline_block"><br>
   
-  ## My Skills
+## My Skills
+
 **Programming languages:**
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -52,7 +53,6 @@
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?&style=for-the-badge&logo=GNUBash&logoColor=white)
 
-
 **Testing:**
 
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=white)
@@ -67,8 +67,8 @@
   ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
   ![Discord](https://img.shields.io/badge/Discord-5865f2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
   ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=white)
+  ![Miro](https://img.shields.io/badge/Miro-050038.svg?&style=for-the-badge&logo=miro&logoColor=white)
   
-
   </div>
 <div style="display: inline_block"><br>
   
@@ -91,14 +91,11 @@
 - [ ] Complete the Trybe Course
 - [ ] Being hired by a large company
 
-  
-
-
 ## Talk to me
 
 <div align="center">
 
- [![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white&)](link=https://github.com/iamlucasgomes)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ [![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white&)](link=https://github.com/iamlucasgomes)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![Gmail](https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white&)](mailto:lucas.devjs@gmail.com)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&)](link=https://www.linkedin.com/in/iamlucasgomes/)
 
