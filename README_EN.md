@@ -24,8 +24,8 @@
 
 <div display="inline-block" align="center">
 
-![iamlucasgomes GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlucasgomes&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucasgomes&theme=midnight-purple&custom_title=Linguagens%20mais%20usadas&layout=compact)
+![iamlucasgomes GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlucasgomes&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucasgomes&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&layout=compact)
 </div>
 
 <div style="display: inline_block"><br>
