@@ -16,7 +16,7 @@
   
 ## About me
 
-- 🌱 Full Stack Web Developer in Training at <a target="_blank" href="https://www.betrybe.com">Trybe</a>
+- 🌱 Front-end web developer studying back-end module at <a target="_blank" href="https://www.betrybe.com">Trybe</a>
 - 📍 Brasilia
 - 📫 You can find me through the contact links
 
