@@ -26,7 +26,7 @@
 <div display="inline-block" align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=iamlucasgomes&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucasgomes&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucasgomes&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&layout=default)
 </div>
 
 <div style="display: inline_block"><br>
