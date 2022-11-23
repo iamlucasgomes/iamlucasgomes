@@ -50,6 +50,10 @@
 
 ![](https://img.shields.io/badge/node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 
+ **Database:**
+  
+  ![](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+  
 **Devops:**
 
 ![](https://img.shields.io/badge/Bash-4EAA25.svg?&style=for-the-badge&logo=GNUBash&logoColor=white)
