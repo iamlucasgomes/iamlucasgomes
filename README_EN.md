@@ -58,6 +58,9 @@
 
 ![](https://img.shields.io/badge/Jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=white)
 ![](https://img.shields.io/badge/Testing%20Library-E33332.svg?&style=for-the-badge&logo=Testing%20Library&logoColor=white)
+![](https://img.shields.io/badge/Mocha-8D6748.svg?&style=for-the-badge&logo=mocha&logoColor=white)
+![](https://img.shields.io/badge/Chai-A30701.svg?&style=for-the-badge&logo=chai&logoColor=white)
+![](https://img.shields.io/badge/SINON.JS-995e45.svg?&style=for-the-badge&logo=sinon&logoColor=white)
 
 **Tools:**
 

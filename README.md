@@ -55,11 +55,13 @@
 ![](https://img.shields.io/badge/Bash-4EAA25.svg?&style=for-the-badge&logo=GNUBash&logoColor=white)
 ![](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
-
 **Testing:**
 
 ![](https://img.shields.io/badge/Jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=white)
 ![](https://img.shields.io/badge/Testing%20Library-E33332.svg?&style=for-the-badge&logo=Testing%20Library&logoColor=white)
+![](https://img.shields.io/badge/Mocha-8D6748.svg?&style=for-the-badge&logo=mocha&logoColor=white)
+![](https://img.shields.io/badge/Chai-A30701.svg?&style=for-the-badge&logo=chai&logoColor=white)
+![](https://img.shields.io/badge/SINON.JS-995e45.svg?&style=for-the-badge&logo=sinon&logoColor=white)
 
 **Ferramentas:**
 
@@ -71,7 +73,6 @@
   ![](https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=white)
   ![](https://img.shields.io/badge/Miro-050038.svg?&style=for-the-badge&logo=miro&logoColor=white)
   
-
   </div>
 <div style="display: inline_block"><br>
   
@@ -98,8 +99,7 @@
 
 <div align="center">
 
-
- [![](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white&)](https://github.com/iamlucasgomes)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ [![](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white&)](https://github.com/iamlucasgomes)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![](https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white&)](mailto:lucas.devjs@gmail.com)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![](https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/iamlucasgomes/)
 
