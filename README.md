@@ -26,7 +26,7 @@
 <div display="inline-block" align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=iamlucasgomes&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucasgomes&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucasgomes&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&layout=default)
 </div>
 
 <div style="display: inline_block"><br>
@@ -49,7 +49,12 @@
 **Desenvolvimento back-end:**
 
 ![](https://img.shields.io/badge/node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=express&logoColor=white)
 
+ **Database:**
+  
+  ![](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+  
 **Devops:**
 
 ![](https://img.shields.io/badge/Bash-4EAA25.svg?&style=for-the-badge&logo=GNUBash&logoColor=white)
@@ -68,10 +73,11 @@
   ![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
   ![](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+  ![](https://img.shields.io/badge/Miro-050038.svg?&style=for-the-badge&logo=miro&logoColor=white)
   ![](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
   ![](https://img.shields.io/badge/Discord-5865f2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
   ![](https://img.shields.io/badge/Zoom-2D8CFF.svg?&style=for-the-badge&logo=Zoom&logoColor=white)
-  ![](https://img.shields.io/badge/Miro-050038.svg?&style=for-the-badge&logo=miro&logoColor=white)
+ 
   
   </div>
 <div style="display: inline_block"><br>
