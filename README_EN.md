@@ -49,10 +49,12 @@
 
 ![](https://img.shields.io/badge/node-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/NestJs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
   
 **Database:**
   
 ![](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Prisma-2D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white)
 
 **Devops:**
 
