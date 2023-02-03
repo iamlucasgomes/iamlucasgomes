@@ -4,7 +4,7 @@
 <div align="right">
   <a target="_blank" href="https://github.com/iamlucasgomes/iamlucasgomes/blob/main/README_EN.md">🇺🇸</a></div>
     <div>
-      <img width='350px' align="right" style='width: 350px;' src="./assets/img/me.png" />
+      <img width='350px' align="right" style='width: 300px;' src="./assets/img/me.png" />
       </div>
   
   
