@@ -35,6 +35,7 @@
 **Programming languages:**
 
   ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
+  ![](https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 
 **Front end development:**
 
@@ -54,7 +55,11 @@
 **Database:**
   
 ![](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Prisma-2D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white)
+  
+  **ORM**
+  
+ ![](https://img.shields.io/badge/Prisma-2D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white)
+ ![](https://img.shields.io/badge/Sequelize-52B0E7.svg?&style=for-the-badge&logo=sequelize&logoColor=white)
 
 **Devops:**
 
@@ -105,7 +110,6 @@
 
 <div align="center">
 
- [![](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white&)](https://github.com/iamlucasgomes)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![](https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white&)](mailto:lucas.devjs@gmail.com)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![](https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/iamlucasgomes/)
 
