@@ -36,6 +36,7 @@
 **Linguagens de programação:**
 
   ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
+  ![](https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 
 **Desenvolvimento Front-end:**
 
@@ -55,7 +56,11 @@
  **Database:**
   
   ![](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+  
+  **ORM**
+  
   ![](https://img.shields.io/badge/Prisma-2D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white)
+  ![](https://img.shields.io/badge/Sequelize-52B0E7.svg?&style=for-the-badge&logo=sequelize&logoColor=white)
   
 **Devops:**
 
