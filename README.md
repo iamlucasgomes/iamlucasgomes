@@ -1,18 +1,22 @@
 
 <h1 align="center">Olá! eu sou o Lucas Gomes <img src="assets/img/dancingdog.gif" alt="cachorro dançando" width="30"> </h1>
-<div align="right"><a target="_blank" href="https://github.com/iamlucasgomes/iamlucasgomes/blob/main/README_EN.md">🇺🇸</a></div>
-<p align="center">
-<!-- <img src="https://s7.gifyu.com/images/ezgif.com-gif-makerc7cb64de0fabcd39.gif" /> -->
-<img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200.gif" />
-<!-- <img src="https://miro.medium.com/max/1360/1*VON9gHTrzeHZbHfXsqfzEA.gif" /> -->
-</p align="center">
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=iamlucasgomes&style=for-the-badge&label=VOCE+É+O+VISITANTE+NÚMERO&color=4B0082)
-
-![codewars](https://www.codewars.com/users/iamlucasgomes/badges/micro)
+<div align="right">
+  <a target="_blank" href="https://github.com/iamlucasgomes/iamlucasgomes/blob/main/README_EN.md">🇺🇸</a></div>
+  <div style='display: flex; justify-content: center; align-items: center;'>
+    <div style='flex-direction: column;' align='center' >
 
 <a href="https://www.hackerrank.com/iamlucasgomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iamlucasgomes" height="30" width="40" /></a>
+
+      
+![codewars](https://www.codewars.com/users/iamlucasgomes/badges/micro)
+      
+![](https://komarev.com/ghpvc/?username=iamlucasgomes&style=for-the-badge&label=VOCE+É+O+VISITANTE+NÚMERO&color=4B0082)
+</div>
+<div style='display: flex; justify-content: end;'>
+  <img style='width: 350px;' src="./assets//img//me.png" />
+  </div>
+  </div>
+<div align="center">
 </div>
   
 ## Sobre mim
