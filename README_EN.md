@@ -2,21 +2,10 @@
 <h1 align="center">Hi! I'm Lucas Gomes <img src="assets/img/dancingdog.gif" alt="dancing dog" width="30"> </h1>
 <div align="right">
   <a target="_blank" href="https://github.com/iamlucasgomes/iamlucasgomes/blob/main/README_EN.md">🇺🇸</a></div>
-  <div style='display: flex; justify-content: center; align-items: center;'>
-    <div style='flex-direction: column;' align='center' >
-
-<a href="https://www.hackerrank.com/iamlucasgomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iamlucasgomes" height="30" width="40" /></a>
-
-![codewars](https://www.codewars.com/users/iamlucasgomes/badges/micro)
-
-![](https://komarev.com/ghpvc/?username=iamlucasgomes&style=for-the-badge&label=YOU+ARE+THE+VISITOR+NUMBER&color=4B0082)
-</div>
-<div style='display: flex; justify-content: end;'>
-  <img style='width: 350px;' src="./assets//img//me.png" />
   </div>
-  </div>
-<div align="center">
-</div>
+    <div>
+      <img width='350px' align="right" style='width: 350px;' src="./assets/img/me.png" />
+      </div>
 
 ## About me
 
