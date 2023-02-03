@@ -16,16 +16,9 @@
 
 ## Minhas estatísticas do github
 
-<div display="inline-block" align="center">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<div display="inline-block" align="left">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamlucasgomes&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=iamlucasgomes&show_icons=true&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucasgomes&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&layout=default)
 </div>
