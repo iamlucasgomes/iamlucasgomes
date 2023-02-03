@@ -20,7 +20,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iamlucasgomes&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=iamlucasgomes&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucasgomes&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&layout=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucasgomes&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&layout=compact)
 </div>
 
 <div style="display: inline_block"><br>
