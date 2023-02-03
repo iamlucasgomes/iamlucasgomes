@@ -16,7 +16,7 @@
 
 ## Minhas estatísticas do github
 
-<div display="inline-block" align="left">
+<div display="inline-block" align="left"><br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iamlucasgomes&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=iamlucasgomes&show_icons=true&theme=tokyonight)
