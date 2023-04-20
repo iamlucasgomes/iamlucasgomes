@@ -39,6 +39,7 @@
   ![](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
   ![](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
   ![](https://img.shields.io/badge/Context_API-0088CC.svg?&style=for-the-badge&logo=react&logoColor=white)
+  ![](https://img.shields.io/badge/Next-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
   
 **Backend development:**
 
