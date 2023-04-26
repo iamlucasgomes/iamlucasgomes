@@ -10,7 +10,7 @@
   
 ## Sobre mim
 
-- 🌱 Desenvolvedor Web Front-end cursando módulo de back-end na <a target="_blank" href="https://www.betrybe.com">Trybe</a>
+- 🌱 Desenvolvedor Web FullStack cursando módulo de Ciência da Computação na <a target="_blank" href="https://www.betrybe.com">Trybe</a>
 - 📍 Brasilia
 - 📫 Você pode me encontrar através dos links de contato
 
