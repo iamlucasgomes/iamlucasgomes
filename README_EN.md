@@ -8,7 +8,7 @@
 
 ## About me
 
-- 🌱 Front-end web developer studying back-end module at <a target="_blank" href="https://www.betrybe.com">Trybe</a>
+- 🌱 Fullstack web developer studying Computer science module at <a target="_blank" href="https://www.betrybe.com">Trybe</a>
 - 📍 Brasilia
 - 📫 You can find me through the contact links
 
