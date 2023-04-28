@@ -8,7 +8,7 @@
 
 ## About me
 
-- 🌱 Fullstack web developer studying Computer science module at <a target="_blank" href="https://www.betrybe.com">Trybe</a>
+- 🌱 Fullstack web developer studying Computer science module at <a target="_blank" href="https://www.betrybe.com">Trybe</a> and Systems Analysis and Development at <a target="_blank" href="https://estacio.br/">Estácio</a>
 - 📍 Brasilia
 - 📫 You can find me through the contact links
 
