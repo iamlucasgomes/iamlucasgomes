@@ -10,7 +10,7 @@
   
 ## Sobre mim
 
-- 🌱 Desenvolvedor Web FullStack cursando módulo de Ciência da Computação na <a target="_blank" href="https://www.betrybe.com">Trybe</a>
+- 🌱 Desenvolvedor Web Fullstack cursando módulo de Ciência da Computação na <a target="_blank" href="https://www.betrybe.com">Trybe</a> e Análise e Desenvolvimento de Sistemas na <a target="_blank" href="https://estacio.br/">Estácio</a>
 - 📍 Brasilia
 - 📫 Você pode me encontrar através dos links de contato
 
