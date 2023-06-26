@@ -10,7 +10,7 @@
   
 ## Sobre mim
 
-- 🌱 Desenvolvedor Web Fullstack cursando módulo de Ciência da Computação na <a target="_blank" href="https://www.betrybe.com">Trybe</a> e Análise e Desenvolvimento de Sistemas na <a target="_blank" href="https://estacio.br/">Estácio</a>
+- 🌱 Desenvolvedor Web Fullstack cursando Análise e Desenvolvimento de Sistemas na <a target="_blank" href="https://estacio.br/">Estácio</a>
 - 👨‍💻 Desenvolvedor Fullstack na <a target="_blank" href="https://www.agrobook.app/">Agrobook</a>
 - 📍 Brasilia
 - 📫 Você pode me encontrar através dos links de contato
@@ -103,7 +103,8 @@
 - [x] Concluir o Modulo 2 - Desenvolvimento Front-end
 - [x] Concluir o Modulo 3 - Desenvolvimento Back-end
 - [x] Concluir o Modulo 4 - Ciência da Computação
-- [ ] Concluir o Curso da Trybe
+- [x] Concluir o Curso da Trybe
+- [ ] Concluir Análise e Desenvolvimento de Sistemas
 - [ ] Ser contratado por uma grande empresa
 
 ## Fale comigo
