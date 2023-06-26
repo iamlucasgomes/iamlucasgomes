@@ -8,7 +8,7 @@
 
 ## About me
 
-- 🌱 Fullstack web developer studying Computer science module at <a target="_blank" href="https://www.betrybe.com">Trybe</a> and Systems Analysis and Development at <a target="_blank" href="https://estacio.br/">Estácio</a>
+- 🌱 Fullstack web developer studying Systems Analysis and Development at <a target="_blank" href="https://estacio.br/">Estácio</a>
 - 👨‍💻 Fullstack developer at <a target="_blank" href="https://www.agrobook.app/">Agrobook</a>
 - 📍 Brasilia
 - 📫 You can find me through the contact links
@@ -101,7 +101,8 @@
 - [x] Complete Module 2 - Front-end Development
 - [x] Complete Module 3 - Back-end Development
 - [x] Complete Module 4 - Computer Science
-- [ ] Complete the Trybe Course
+- [x] Complete the Trybe Course
+- [ ] Complete Systems Analysis and Development
 - [ ] Being hired by a large company
 
 ## Talk to me
