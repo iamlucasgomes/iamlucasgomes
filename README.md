@@ -11,7 +11,7 @@
 ## Sobre mim
 
 - 🌱 Desenvolvedor Web Fullstack cursando Análise e Desenvolvimento de Sistemas na <a target="_blank" href="https://estacio.br/">Estácio</a>
-- 👨‍💻 Desenvolvedor Fullstack na <a target="_blank" href="https://www.agrobook.app/">Agrobook</a>
+- 👨‍💻 Desenvolvedor de software na <a target="_blank" href="https://www.localizaco.com/">Localiza&Co</a>
 - 📍 Brasilia
 - 📫 Você pode me encontrar através dos links de contato
 
@@ -32,14 +32,15 @@
 
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
   ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-  ![Golang](https://img.shields.io/badge/Golang-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white)
+  <!--- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Golang](https://img.shields.io/badge/Golang-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white) -->
 
 **Desenvolvimento Front-end:**
 
   ![](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
   ![](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+  ![](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=fff)
   ![](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
   ![](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
   ![](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
@@ -55,6 +56,7 @@
  **Database:**
   
   ![](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+  ![](https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=fff)
   ![](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
   
   **ORM**
@@ -65,6 +67,7 @@
 **Devops:**
 
 ![](https://img.shields.io/badge/Bash-4EAA25.svg?&style=for-the-badge&logo=GNUBash&logoColor=white)
+![](https://img.shields.io/badge/zsh-F15A24.svg?&style=for-the-badge&logo=zsh&logoColor=fff)
 ![](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
 **Testing:**
@@ -80,6 +83,7 @@
   ![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
   ![](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+  ![](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=fff)
   ![](https://img.shields.io/badge/Miro-050038.svg?&style=for-the-badge&logo=miro&logoColor=white)
   ![](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
   ![](https://img.shields.io/badge/Discord-5865f2.svg?&style=for-the-badge&logo=Discord&logoColor=white)
@@ -97,7 +101,7 @@
 
   </div>
 
-<h1>Metas</h1>
+<!--- <h1>Metas</h1>
 
 - [X] Ser aluno da Trybe
 - [X] Concluir o Modulo 1 - Fundamentos do Desenvolvimento Web
@@ -106,7 +110,7 @@
 - [x] Concluir o Modulo 4 - Ciência da Computação
 - [x] Concluir o Curso da Trybe
 - [ ] Concluir Análise e Desenvolvimento de Sistemas
-- [x] Ser contratado por uma grande empresa
+- [x] Ser contratado por uma grande empresa -->
 
 ## Fale comigo
 
