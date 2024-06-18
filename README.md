@@ -25,18 +25,16 @@
 <div display="inline-block" align="left"><br>
 
 <div display="inline-block" align="left"><br></div>
-<img src="https://streak-stats.demolab.com?user=iamlucasgomes&theme=tokyonight"/>
+ <img src="https://streak-stats.demolab.com?user=iamlucasgomes&theme=tokyonight"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucasgomes&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&layout=compact"/>
 
-![](https://github-readme-stats.vercel.app/api?username=iamlucasgomes&show_icons=true&theme=tokyonight)
+ <div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=iamlucasgomes&show_icons=true&theme=tokyonight"/>
+ </div>
 
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlucasgomes&theme=tokyonight&custom_title=Linguagens%20mais%20usadas&layout=compact)
-  
-</div>
 </div>
 
-<div style="display: inline_block"><br>
+<div>
   
 <h2>🧰 Algumas das minhas habilidades e ferramentas</h2>
 <details>
@@ -44,8 +42,8 @@
 
   <details>
 <summary><strong>Linguagens de programação:</strong></summary>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black" alt="Javascript" />
 
-  ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)
   ![Typescript](https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
   <!--- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
