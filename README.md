@@ -1,4 +1,3 @@
-
 <div align="right"><a target="_blank" href="https://github.com/iamlucasgomes/iamlucasgomes/blob/main/README_EN.md">🇺🇸</a></div>
 <h2>Olá 👋, me chamo Lucas</h2>
 <p>Atualmente sou desenvolvedor de software na <strong><a target="_blank" href="https://www.localizaco.com/">Localiza&Co</a></strong> e anteriormente desenvolvedor fullstack na <strong><a href="https://www.agrobook.app/">Agrobook</a></strong>. Estou aprendendo alguns drinks🍹e tentando ser um bom arqueiro no PoE.</p>
