@@ -106,7 +106,7 @@
 - [x] Concluir o Modulo 4 - Ciência da Computação
 - [x] Concluir o Curso da Trybe
 - [ ] Concluir Análise e Desenvolvimento de Sistemas
-- [ ] Ser contratado por uma grande empresa
+- [x] Ser contratado por uma grande empresa
 
 ## Fale comigo
 
