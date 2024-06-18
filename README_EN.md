@@ -1,4 +1,4 @@
-<div align="right"><a target="_blank" href="https://github.com/iamlucasgomes/iamlucasgomes/blob/main/README.md">🇧🇷</a></div>
+<div align="right"><a target="_blank" href="https://github.com/iamlucasgomes">🇧🇷</a></div>
 <h2>Hello 👋, my name is Lucas</h2>
 <p>I am currently a software developer at <strong><a target="_blank" href="https://www.localizaco.com/">Localiza&Co</a></strong> and previously fullstack developer at <strong><a href="https://www.agrobook.app/">Agrobook</a></strong>. I'm learning some drinks🍹and trying to be a good archer in PoE.</p>
 <p><a target="_blank" href="https://www.linkedin.com/in/iamlucasgomes/"><img src="https://img.shields.io/badge/-@iamlucasgomes-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/iamlucasgomes/" alt="LinkedIn Badge"></a> <a target="_blank" href="https://dev.to/iamlucasgomes"><img src="https://img.shields.io/badge/-@iamlucasgomes-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/iamlucasgomes" alt="DevTo Badge"></a> <a 
